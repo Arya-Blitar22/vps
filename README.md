@@ -35,3 +35,7 @@ Ubuntu 18,20.04
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/vps/main/arya2.png)
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/vps/main/arya3.png)
+
+### Jangan Lupa Donasi Guys
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
