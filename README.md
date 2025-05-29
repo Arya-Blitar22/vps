@@ -20,6 +20,7 @@ KUSUS SSH WSOKET SAJA YA
 
 ### Port :
 Openssh - 22
+
 Stunel/ssl/sni - 443,445,777
 
 Dropbear - 443,109,143
